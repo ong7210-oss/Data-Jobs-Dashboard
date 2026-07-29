@@ -1,6 +1,6 @@
 # Data Jobs Dashboard / Power BI
 
-![Dashboard Page 1](/Images/Picture%201.png)
+![Dashboard Page 1](/Images/Picture_1.png)
 
 [View interactive dashboard here on the Power BI Service](https://lukeb.co/powerbi-project1)
 
@@ -25,7 +25,7 @@ This dashboard is made for job seekers and people who want to change jobs. The p
 
 ### Page 1: High-Level Market View
 
-![Dashboard Page 1](/Images/Picture%201.png)  
+![Dashboard Page 1](/Images/Picture_1.png)  
 
 This dashboard is like your main control panel for the data job market. It shows important information such as total number of jobs, median salary, and top job titles, so you can quickly understand what is happening in the job market.
 

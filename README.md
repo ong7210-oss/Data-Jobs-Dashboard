@@ -8,7 +8,7 @@ Explore the dashboards below. Each one has its own README with more details abou
 
 ## 📉 Data Jobs Dashboard (V1 - Comprehensive Exploration)
 
-![Data Jobs DB GIF](/Images/Picture%201.png)
+![Data Jobs DB GIF](/Images/Picture_1.png)
 
 [🌐 **View Interactive Dashboard on Power BI Service**](https://lukeb.co/powerbi-project1)
 
@@ -26,7 +26,7 @@ Explore the dashboards below. Each one has its own README with more details abou
 
 [➡️ **View Full Project 1 Details (README)**](/Project%201/README.md)
 
-## 📊 Data Jobs Dashboard 2.0 (V2 - Single-Page Focus
+## 📊 Data Jobs Dashboard 2.0 (V2 - Single-Page Focus)
 
 ![Data Jobs Dashboard 2.0](/Images/Picture%203.png)
 
